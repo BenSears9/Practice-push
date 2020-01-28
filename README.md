@@ -9,6 +9,7 @@ _I **am** combining  **italics** and BOLD text_
   * Ski (snow)
 
 ![Bali Surf](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ZoE8ZkuG0pQ3Na2WxmROHmjYQNxSetoYABTX1oftYiXg2oHi2Q&s)
+
 Want to learn about surfing?
 Click below :arrow_down:
-https://www.stokedfortravel.com/surfing-in-bali-surf-guide/ - automatic!
+https://www.stokedfortravel.com/surfing-in-bali-surf-guide/
