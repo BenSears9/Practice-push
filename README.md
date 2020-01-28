@@ -12,4 +12,13 @@ _I **am** combining  **italics** and BOLD text_
 
 Want to learn about surfing?
 Click below :arrow_down:
-https://www.stokedfortravel.com/surfing-in-bali-surf-guide/
+
+[Surfs up Dude](https://www.stokedfortravel.com/surfing-in-bali-surf-guide/)
+
+###Here is the weather as of 1/28/2020###
+Augusta | Bali
+--------|-----
+High of 61 | High of 90
+Low of 37 | Low of 76
+Sunny | Partly cloudy
+No Ocean | Awesome Ocean with Great Sweeping Breaks
