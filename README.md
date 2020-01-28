@@ -23,9 +23,10 @@ Augusta | Bali
 High of 61 | High of 90
 Low of 37 | Low of 76
 Sunny | Partly cloudy
-No Ocean | Awesome Ocean with Great Sweeping Breaks
+No Ocean | Great Sweeping Breaks
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+##Things to bring to Bali##
+- [ ] Surfboard
+- [ ] Sunscreen
+- [ ] Passport
+- [ ] Your wife if you can afford the airfare
