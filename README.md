@@ -16,7 +16,7 @@ Click below :arrow_down:
 [Surfs up Dude](https://www.stokedfortravel.com/surfing-in-bali-surf-guide/)
 
 
-###Here is the weather as of 1/28/2020
+### Here is the weather as of 1/28/2020
 
 Augusta | Bali
 --------|-----
@@ -25,7 +25,7 @@ Low of 37 | Low of 76
 Sunny | Partly cloudy
 No Ocean | Great Sweeping Breaks
 
-##Things to bring to Bali
+### Things to bring to Bali
 - [ ] Surfboard
 - [ ] Sunscreen
 - [ ] Passport
